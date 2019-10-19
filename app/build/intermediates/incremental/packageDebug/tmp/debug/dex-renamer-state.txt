@@ -1,0 +1,4 @@
+#Tue Oct 15 18:10:02 IST 2019
+base.0=/home/fernanda/Desktop/XMLPullParser1/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
